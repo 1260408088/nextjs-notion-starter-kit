@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Marvin‘s notion.so',
   domain: 'https://www.notion.so/marvin-guo/Computer-39b12379dbf04e728f0f2ca6ef8fa494',
-  author: 'Marvin Guo,
+  author: 'Marvin Guo',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
